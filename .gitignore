@@ -1,0 +1,7 @@
+#这句的意思是忽略bin文件夹中所有带有.d后缀名的文件。
+bin/*.d
+#忽略mysite项目中所有带.o后缀名的文件。
+*.o
+*.ipynb_checkpoints
+*.idea
+*.DS_Store
